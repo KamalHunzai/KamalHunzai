@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kamal Hussain</h1>
 <h3 align="center">Mobile Apps, Full Stack Web/DevOps Engineer,Software Solutions Architect</h3>
-<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="kamalhunzai" /> </p>
 
