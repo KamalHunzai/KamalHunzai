@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kamal Hussain</h1>
 <h3 align="center">Mobile Apps, Full Stack Web/DevOps Engineer,Software Solutions Architect</h3>
 
-![](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)
+![](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="kamalhunzai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalhunzai" alt="kamalhunzai" /></a> </p>
