@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamal_hunzai" target="blank"><img src="https://img.shields.io/twitter/follow/kamal_hunzai?logo=twitter&style=for-the-badge" alt="kamal_hunzai" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, React, React Native, AWS, iOS Native**
+- 🌱 I’m currently Working on **NextJs, React, React Native, AWS, iOS Native, Nodejs apis, Serverless and many more**
 
 - 💬 Ask me about **Enterprise Software development, Software Solutions, Software architecture design**
 
