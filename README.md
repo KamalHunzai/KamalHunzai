@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kamal Hussain</h1>
-<h3 align="center">Software Solutions Architect | Full Stack & Mobile Apps Developer | Agentic AI & DevOps Engineer</h3>
+<h3 align="center">Software Solutions Architect | Full Stack & Mobile Developer | Agentic AI & DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300" alt="coding animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KamalHunzai&label=Profile%20views&color=0e75b6&style=flat" alt="KamalHunzai" />
+  <img src="https://komarev.com/ghpvc/?username=kamalhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="kamalhunzai" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🌱 Currently working on **Agentic AI, AWS, Node.js, React, Angular, Next.js, MongoDB, Docker, Kubernetes, TensorFlow, and Firebase**  
 - 💬 Ask me about **Enterprise Software, Solution Architecture, and Scalable System Design**  
 - 📫 Reach me at **dev.kamalhunzai@gmail.com**  
-- 🔄 Also contributed through my **parallel account** — [`kamalhunzai.dexive`](https://github.com/kamalhunzai.dexive)
+- 🧾 Previously contributed from my **parallel GitHub account** — [kamalhunzai.dexive](https://github.com/kamalhunzai.dexive)
 
 ---
 
@@ -32,22 +32,22 @@
 
 ### 🧠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=amplify,android,angular,appwrite,arduino,aws,azure,babel,bash,bootstrap,chartjs,circleci,couchdb,css,docker,elasticsearch,electron,ember,express,figma,firebase,framer,gatsby,gcp,git,graphql,gulp,heroku,html,ionic,js,jenkins,jest,kubernetes,linux,mariadb,materialize,mocha,mongodb,mssql,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,opencv,postgres,postman,pytorch,react,reactnative,redis,redux,sass,sqlite,svelte,swift,tailwind,tensorflow,ts,vagrant,webpack,xd" />
+  <img src="https://skillicons.dev/icons?i=amplify,android,angular,appwrite,arduino,aws,azure,babel,bash,bootstrap,canvasjs,chartjs,circleci,couchdb,css,docker,elasticsearch,electron,ember,express,figma,firebase,framer,gatsby,gcp,git,graphql,gulp,heroku,html,ionic,js,jenkins,jest,kubernetes,linux,mariadb,materialize,mocha,mongodb,mssql,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,opencv,postgres,postman,pytorch,react,reactnative,redis,redux,sass,sqlite,svelte,swift,tailwind,tensorflow,ts,vagrant,webpack,xd" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&theme=radical" alt="KamalHunzai stats" />
+  <img src="https://github-readme-stats.demolab.com/api?username=kamalhunzai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalHunzai&theme=radical" alt="KamalHunzai streak" />
+  <img src="https://streak-stats.demolab.com?user=kamalhunzai&theme=tokyonight&hide_border=false" height="180em" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHunzai&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=kamalhunzai&layout=compact&langs_count=8&theme=tokyonight" height="180em" alt="Top Languages" />
 </p>
 
 ---
