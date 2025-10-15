@@ -2,7 +2,7 @@
 
 🚀 AI-Powered Full-Stack/Mobile Architect | Agentic AI, AWS, Kubernetes, and the React Ecosystem (Web/Native)
 
-I build intelligent, high-demand applications by combining Agentic AI/TensorFlow with specialized data architecture, including Vector DBs and PostgreSQL. I orchestrate this system across the Cloud using Kubernetes and deliver unified user experiences across web (React/Next.js) and mobile (React Native). My full-stack mastery includes NestJS and MongoDB.
+I build intelligent, high-demand applications by combining Agentic AI/TensorFlow with specialized data architecture, including Vector DBs and PostgreSQL. I orchestrate this system across the Cloud using Kubernetes and deliver unified user experiences across web (React/Next.js) and mobile (React Native).
 
 ---
 
