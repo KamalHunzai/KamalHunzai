@@ -42,97 +42,18 @@
 
 ---
 
-## 🧠 Languages, Databases, Cloud & Tools
-
-### 💻 Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
----
-
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/realm" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="realm" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://couchdb.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/></a>
-</p>
-
----
-
-### ☁️ Cloud Platforms
-### ☁️ Cloud Platforms & Hosting
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-  <a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
-  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/></a>
-  <a href="https://www.linode.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="linode" width="40" height="40"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
-  <a href="https://www.hostinger.com/" target="_blank"><img src="https://seeklogo.com/images/H/hostinger-logo-3A6D3D5C86-seeklogo.com.png" alt="hostinger" width="40" height="40"/></a>
-  <a href="https://www.hostgator.com/" target="_blank"><img src="https://seeklogo.com/images/H/hostgator-logo-2C3BDE6FE9-seeklogo.com.png" alt="hostgator" width="40" height="40"/></a>
-  <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/></a>
-</p>
-
----
-
-### ⚙️ DevOps & Infrastructure
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://travis-ci.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>
-  <a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
----
-
-### 🧰 Tools & Frameworks
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://vuejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/></a>
-  <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
- <a href="https://materializecss.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/materialize-1.svg" alt="materialize" width="40" height="40"/></a>
-  <a href="https://ionicframework.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
-  <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
-  <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
-</p>
-
-
----
+🚀 Languages & Frameworks
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a> <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></a> <a href="https://nextjs.org/"><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40" alt="Next.js"/></a> <a href="https://nestjs.com/"><img src="https://nestjs.com/img/logo-small.svg" width="40" height="40" alt="NestJS"/></a> <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a> <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/></a> <a href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40" alt="Svelte"/></a> </p>
+🎨 Design & UI
+<p align="left"> <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/></a> <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a> <a href="https://materializecss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" width="40" height="40" alt="Materialize"/></a> <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a> <a href="https://www.adobe.com/products/xd.html"><img src="https://www.vectorlogo.zone/logos/adobexd/adobexd-icon.svg" width="40" height="40" alt="Adobe XD"/></a> </p>
+☁️ Cloud & DevOps
+<p align="left"> <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a> <a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" width="40" height="40" alt="Amplify"/></a> <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/></a> <a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/></a> <a href="https://www.digitalocean.com/"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" width="40" height="40" alt="DigitalOcean"/></a> <a href="https://www.linode.com/"><img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" width="40" height="40" alt="Linode"/></a> <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/></a> <a href="https://www.heroku.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="Heroku"/></a> <a href="https://appwrite.io/"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" alt="Appwrite"/></a> <a href="https://www.hostinger.com/"><img src="https://seeklogo.com/images/H/hostinger-logo-FAE48E0E7F-seeklogo.com.png" width="40" height="40" alt="Hostinger"/></a> <a href="https://www.hostgator.com/"><img src="https://www.vectorlogo.zone/logos/hostgator/hostgator-icon.svg" width="40" height="40" alt="HostGator"/></a> </p>
+🗄️ Databases
+<p align="left"> <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a> <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a> <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a> <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis"/></a> <a href="https://realm.io/"><img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" width="40" height="40" alt="Realm"/></a> <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/></a> </p>
+🧠 AI & Automation
+<p align="left"> <a href="https://n8n.io/"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40" alt="n8n"/></a> <a href="https://ifttt.com/"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" width="60" height="40" alt="IFTTT"/></a> <a href="https://zapier.com/"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" width="40" height="40" alt="Zapier"/></a> <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/></a> </p>
+📰 Content Management Systems (CMS)
+<p align="left"> <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/></a> <a href="https://www.drupal.org/"><img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" width="40" height="40" alt="Drupal"/></a> <a href="https://www.joomla.org/"><img src="https://www.vectorlogo.zone/logos/joomla/joomla-icon.svg" width="40" height="40" alt="Joomla"/></a> <a href="https://strapi.io/"><img src="https://www.vectorlogo.zone/logos/strapiio/strapiio-icon.svg" width="40" height="40" alt="Strapi"/></a> <a href="https://ghost.org/"><img src="https://www.vectorlogo.zone/logos/ghost/ghost-icon.svg" width="40" height="40" alt="Ghost"/></a> </p>
 
 ### 📊 GitHub Stats
 <p align="center">
