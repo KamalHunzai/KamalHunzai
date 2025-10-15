@@ -21,15 +21,10 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently working on **Agentic AI, AWS, Node.js, React, Angular, Next.js, MongoDB, Docker, Kubernetes, TensorFlow, and Firebase** — focusing on **high-demand technologies** across full-stack, cloud, and AI development.  
+- 🌱 Currently working on **Agentic AI, AWS, Node.js, React, Angular, Next.js, MongoDB, Docker, Kubernetes, TensorFlow, and Firebase**  
 - 💬 Ask me about **Enterprise Software, Solution Architecture, and Scalable System Design**  
 - 📫 Reach me at **dev.kamalhunzai@gmail.com**
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+-  I have lost access to (kamalhunzai.dexive) github. I only have acess to **KamalHunzai** Github.
 
 ---
 
@@ -50,7 +45,6 @@
 
 ### 🧠 Languages & Tools
 <p align="left">
-  <!-- Just a sample group, keeping only key ones for visual balance -->
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
@@ -61,25 +55,23 @@
   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalhunzai&show_icons=true&theme=radical" alt="kamalhunzai stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamalhunzai&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalhunzai&layout=compact&langs_count=8&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalhunzai&layout=compact&theme=radical" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalhunzai&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=kamalhunzai&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
 </p>
 
 ---
 
-⭐️ **“Building intelligent, scalable, and human-centered software solutions.”**  
+⭐ **“Building intelligent, scalable, and human-centered software solutions.”**
