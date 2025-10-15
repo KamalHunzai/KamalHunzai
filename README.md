@@ -49,7 +49,7 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   
-    <a href="https://qdrant.tech/" target="_blank"><img src="https://raw.githubusercontent.com/qdrant/qdrant/master/qdrant_logo_only.svg" alt="Vector Database (Qdrant)" width="40" height="40"/></a>
+    <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Vector Database (Qdrant)" width="40" height="40"/></a>
   
   <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/></a>
