@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kamal_hunzai" target="blank"><img src="https://img.shields.io/twitter/follow/kamal_hunzai?logo=twitter&style=for-the-badge" alt="kamal_hunzai" /></a> </p>
 
-- 🌱 I’m currently Working on **NextJs, React, React Native, AWS, iOS Native, Nodejs apis, Serverless and many more**
+- 🌱 I’m currently Working on **Agentic AI, AWS, Node.js, React, Angular, Next.js, MongoDB, Docker, Kubernetes, TensorFlow, and Firebase, along with modern tools across full-stack, cloud, and AI development.**
 
 - 💬 Ask me about **Enterprise Software development, Software Solutions, Software architecture design**
 
