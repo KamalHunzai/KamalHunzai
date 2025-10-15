@@ -89,23 +89,26 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
 ## 📈 GitHub Insights
 
 <p align="center">
-  <a href="https://github.com/KamalHunzai">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
+    <img src="https://your-deployed-url.vercel.app/api?username=KamalHunzai&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
+
+
 <p align="center">
-  <a href="https://github.com/KamalHunzai">
-    <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical" alt="GitHub Streak"/>
+  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KamalHunzai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHunzai&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHunzai&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
 ---
+
 
 ## 💬 About
 Previously managed a parallel GitHub account (**kamalhunzai.dexive**) — currently active on **KamalHunzai** for all development and open-source projects.  
