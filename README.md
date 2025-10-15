@@ -95,7 +95,7 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
 </p>
 <p align="center">
   <a href="https://github.com/KamalHunzai">
-    <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical" alt="GitHub Streak](https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical%22%20alt=%22GitHub%20Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical"/>
   </a>
 </p>
 
