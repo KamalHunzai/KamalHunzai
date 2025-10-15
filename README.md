@@ -65,7 +65,7 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/realm.svg" alt="realm" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/realm" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="realm" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
   <a href="https://couchdb.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/></a>
 </p>
@@ -73,6 +73,7 @@
 ---
 
 ### ☁️ Cloud Platforms
+### ☁️ Cloud Platforms & Hosting
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
@@ -81,6 +82,12 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
   <a href="https://appwrite.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>
+  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="digitalocean" width="40" height="40"/></a>
+  <a href="https://www.linode.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="linode" width="40" height="40"/></a>
+  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></a>
+  <a href="https://www.hostinger.com/" target="_blank"><img src="https://seeklogo.com/images/H/hostinger-logo-3A6D3D5C86-seeklogo.com.png" alt="hostinger" width="40" height="40"/></a>
+  <a href="https://www.hostgator.com/" target="_blank"><img src="https://seeklogo.com/images/H/hostgator-logo-2C3BDE6FE9-seeklogo.com.png" alt="hostgator" width="40" height="40"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/></a>
 </p>
 
 ---
@@ -105,7 +112,7 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
   <a href="https://vuejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/></a>
@@ -118,7 +125,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>
+ <a href="https://materializecss.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/materialize-1.svg" alt="materialize" width="40" height="40"/></a>
   <a href="https://ionicframework.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
   <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
