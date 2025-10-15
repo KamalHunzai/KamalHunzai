@@ -116,4 +116,4 @@ Previously managed a parallel GitHub account (**kamalhunzai.dexive**) — curren
 
 ---
 
-⭐ **Let’s collaborate on AI, cloud, and automation projects!**
+⭐ **Let’s collaborate on AI enabled Full Stack Projects with Mobile to app stores, softwares to cloud, and business automation projects!**
