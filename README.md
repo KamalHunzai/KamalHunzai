@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kamal Hussain</h1>
-<h3 align="center">Software Solutions Architect, Mobile Apps, Full Stack Web/DevOps Engineer,Agentic AI </h3>
+<h3 align="center">Software Solutions Architect, Mobile Apps, Full Stack Web, Agentic AI ,DevOps Engineer </h3>
 
 ![](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalhunzai&label=Profile%20views&color=0e75b6&style=flat" alt="kamalhunzai" /> </p>
