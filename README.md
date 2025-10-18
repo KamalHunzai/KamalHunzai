@@ -90,7 +90,7 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
 
 <p align="center">
   <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&count_private=true&theme=radical&token=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" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </a>
 </p>
 
