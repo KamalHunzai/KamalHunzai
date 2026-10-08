@@ -1,126 +1,141 @@
-# 👋 Hi, I'm Kamal Hussain
-
-🚀 AI-Powered Full-Stack/Mobile Architect | Agentic AI, Cloud, Kubernetes, and the React Ecosystem (Web/Native)
-
-I build intelligent, high-demand applications by combining Agentic AI/TensorFlow with specialized data architecture, including Vector DBs and PostgreSQL. I orchestrate this system across the cloud using Kubernetes and deliver unified user experiences across web (React/Next.js) and mobile (React Native).
-
----
-
-## 🤖 LLMs & AI Coding Assistants
-<p align="left">
-  <a href="https://openai.com/" target="_blank"><img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://www.anthropic.com/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Anthropic (Claude)" width="40" height="40"/></a>
-  <a href="https://cursor.sh/" target="_blank"><img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="40" height="40"/></a>
-  <a href="https://github.com/features/copilot" target="_blank"><img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="40" height="40"/></a>
-</p>
-
----
-
-## 🧠 Data Science, Machine Learning & Automation
-<p align="left">
-  <a href="https://n8n.io/" target="_blank"><img src="https://cdn.simpleicons.org/n8n/FF6D5A" alt="n8n" width="40" height="40"/></a>
-  <a href="https://make.com/" target="_blank"><img src="https://cdn.simpleicons.org/make/17002E" alt="Make" width="40" height="40"/></a>
-  <a href="https://zapier.com/" target="_blank"><img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit_learn" width="40" height="40"/></a>
-</p>
-
----
-
-## ☁️ Cloud & DevOps
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/></a>
-  <a href="https://www.linode.com/" target="_blank"><img src="https://cdn.simpleicons.org/linode/00A95C" alt="linode" width="40" height="40"/></a>
-  <a href="https://www.hostgator.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hostgator.svg" alt="hostgator" width="40" height="40"/></a>
-  <a href="https://www.hostinger.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" alt="hostinger" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/></a>
-</p>
-
----
-
-## 💻 Full-Stack & Frameworks
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/></a>
-  <a href="https://nuxtjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/></a>
-</p>
-
----
-
-## 🗄️ Databases & Backend
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://qdrant.tech/" target="_blank"><img src="https://cdn.simpleicons.org/qdrant/E32119" alt="Vector Database (Qdrant)" width="40" height="40"/></a>
-  <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://realm.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/></a>
-</p>
-
----
-
-## 🎨 Frontend & UI
-<p align="left">
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://materializecss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" alt="materialize" width="40" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-</p>
-
----
-
-## 📰 CMS & Content Platforms
-<p align="left">
-  <a href="https://wordpress.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a>
-</p>
-
----
-
-## ⚙️ Scrum & Productivity Tools
-<p align="left">
-  <a href="https://trello.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/></a>
-  <a href="https://asana.com/" target="_blank"><img src="https://cdn.simpleicons.org/asana/273347" alt="asana" width="40" height="40"/></a>
-  <a href="https://slack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
-</p>
-
----
-
-## 📈 GitHub Insights
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=KAMAL%20HUSSAIN&fontSize=62&fontColor=a78bfa&fontAlignY=38&animation=twinkling&desc=AI-Powered%20Full-Stack%20%2F%20Mobile%20Architect&descSize=20&descAlignY=60&descColor=22d3ee" alt="Kamal Hussain banner"/>
 
 <p align="center">
-  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHunzai&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/KamalHunzai">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=Wiring+LLM+agents+to+real+business+workflows;Vector+search+that+actually+finds+things;Ship+once.+Run+on+web+%2B+mobile.;Kubernetes+keeps+it+all+alive+%E2%98%B8%EF%B8%8F" alt="Typing animation"/>
   </a>
 </p>
 
 ---
 
-## 💬 About
-Previously managed a parallel GitHub account (**kamalhunzai.dexive**) — currently active on **KamalHunzai** for all development and open-source projects.  
+## 💻 Terminal
+
+```console
+kamal@architect:~$ whoami
+kamal.hussain — builds intelligent, high-demand apps
+
+kamal@architect:~$ cat stack.txt
+agentic-ai · vector-db · postgres · kubernetes · react · react-native
+
+kamal@architect:~$ ./deploy --target cloud --platforms web,mobile
+✔ agents online   ✔ web live   ✔ mobile shipped
+
+kamal@architect:~$ echo $STATUS
+open-to-collaboration=true ▌
+```
 
 ---
 
-⭐ **Let’s collaborate on AI-enabled Full-Stack projects, from deploying mobile apps and software to the cloud, to advanced business automation workflows!**
+## 🎮 Character Sheet &nbsp;·&nbsp; Class: Architect &nbsp;·&nbsp; LVL ∞
+
+```text
+Agentic AI            ██████████████████░░  92
+React / React Native  ███████████████████░  95
+Cloud & Kubernetes    █████████████████░░░  88
+Data Architecture     ██████████████████░░  90
+Automation Wizardry   ███████████████████░  94
+```
+
+<sub>Self-assessed stats, 100% subjective, 0% modest.</sub>
+
+---
+
+## 🧭 The Build Pipeline
+
+```mermaid
+flowchart LR
+    A([💡 Idea]) --> B{{🧠 Agentic AI}}
+    B --> C[(🗄️ PostgreSQL + Qdrant)]
+    C --> D[⚙️ Node / NestJS APIs]
+    D --> E[☸️ Kubernetes on Cloud]
+    E --> F[🌐 Next.js Web]
+    E --> G[📱 React Native App]
+    F --> H((🚀 Users))
+    G --> H
+    style B fill:#6d28d9,color:#fff,stroke:#a78bfa
+    style E fill:#0e7490,color:#fff,stroke:#22d3ee
+    style H fill:#15803d,color:#fff,stroke:#4ade80
+```
+
+---
+
+## 🎒 Inventory
+
+<details open>
+<summary><b>🤖 AI Arsenal</b></summary>
+<br>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+
+<br>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn&perline=8" alt="ML stack"/>
+</details>
+
+<details open>
+<summary><b>💻 Build Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,angular,vue,nuxtjs,tailwind,bootstrap,sass,wordpress&perline=7" alt="Web stack"/>
+</details>
+
+<details open>
+<summary><b>☁️ Infrastructure & Data</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,digitalocean,heroku,linux&perline=8" alt="Cloud"/>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,mariadb&perline=8" alt="Databases"/>
+</details>
+
+<details>
+<summary><b>⚙️ Team Gear</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=jira,trello,slack,git,github,vscode&perline=6" alt="Tools"/>
+</details>
+
+---
+
+## 🗡️ Active Quests
+
+- [x] 🤖 Orchestrate agentic AI with real-world business automations
+- [x] 📱 Unify web and mobile experiences with the React ecosystem
+- [ ] 🔎 Push vector search and RAG further, at scale
+- [ ] ☸️ Level up Kubernetes deployments and observability
+- [ ] 🌍 Ship more open-source on **KamalHunzai**
+
+---
+
+## 📈 Battle Log
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KamalHunzai&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalHunzai&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical&hide_border=true" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KamalHunzai&theme=radical&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 🤝 Join the Party
+
+> **Looking for a co-op partner?** I'm always up for AI-enabled full-stack projects: deploying mobile apps and software to the cloud, or building advanced business automation workflows.
+
+<p align="center">
+  <a href="https://github.com/KamalHunzai"><img src="https://img.shields.io/badge/Follow-KamalHunzai-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-22c55e?style=for-the-badge" alt="Status"/>
+</p>
+
+<p align="center"><sub>📝 Formerly also on <b>kamalhunzai.dexive</b>. All development and open-source work now lives here.</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" alt="footer"/>
