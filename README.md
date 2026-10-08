@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Kamal Hussain  
+# 👋 Hi, I'm Kamal Hussain
 
-🚀 AI-Powered Full-Stack/Mobile Architect | Agentic AI, AWS, Kubernetes, and the React Ecosystem (Web/Native)
+🚀 AI-Powered Full-Stack/Mobile Architect | Agentic AI, Cloud, Kubernetes, and the React Ecosystem (Web/Native)
 
-I build intelligent, high-demand applications by combining Agentic AI/TensorFlow with specialized data architecture, including Vector DBs and PostgreSQL. I orchestrate this system across the Cloud using Kubernetes and deliver unified user experiences across web (React/Next.js) and mobile (React Native).
+I build intelligent, high-demand applications by combining Agentic AI/TensorFlow with specialized data architecture, including Vector DBs and PostgreSQL. I orchestrate this system across the cloud using Kubernetes and deliver unified user experiences across web (React/Next.js) and mobile (React Native).
 
 ---
 
@@ -46,15 +46,13 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
 
 ## 🗄️ Databases & Backend
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  
-    <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Vector Database (Qdrant)" width="40" height="40"/></a>
-  
-  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://qdrant.tech/" target="_blank"><img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Vector Database (Qdrant)" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://realm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg" alt="realm" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
 </p>
 
 ---
@@ -94,8 +92,6 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/KamalHunzai" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com/?user=KamalHunzai&theme=radical" alt="GitHub Streak" />
@@ -110,10 +106,9 @@ I build intelligent, high-demand applications by combining Agentic AI/TensorFlow
 
 ---
 
-
 ## 💬 About
 Previously managed a parallel GitHub account (**kamalhunzai.dexive**) — currently active on **KamalHunzai** for all development and open-source projects.  
 
 ---
 
-⭐ **Let’s collaborate on AI enabled Full Stack Projects with Mobile to app stores, softwares to cloud, and business automation projects!**
+⭐ **Let’s collaborate on AI-enabled Full-Stack projects, from deploying mobile apps and software to the cloud, to advanced business automation workflows!**
